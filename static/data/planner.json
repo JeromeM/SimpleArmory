@@ -126,7 +126,8 @@
 						"spellId": 72286
 					  }
 					],
-					"title": "Run Icecrown Citadel"
+					"title": "Run Icecrown Citadel",
+					"type": "Raid"
 				  }
 				],
 				"title": "Fly to Icecrown"
@@ -208,7 +209,8 @@
 						"name": "Emalon"
 					  }
 					],
-					"title": "Run Vault of Archavon"
+					"title": "Run Vault of Archavon",
+					"type":"Raid"
 				  }
 				],
 				"title": "Fly to Wintergrasp"
@@ -236,7 +238,8 @@
 						"spellId": 59568
 					  }
 					],
-					"title": "Run Eye of Eternity"
+					"title": "Run Eye of Eternity",
+					"type": "Raid"
 				  }
 				],
 				"title": "Fly to Coldarra"
@@ -266,7 +269,8 @@
 						"spellId": 59571
 					  }
 					],
-					"title": "Run Obsidian Sanctum"
+					"title": "Run Obsidian Sanctum",
+					"type": "Raid"
 				  }
 				],
 				"title": "Fly to Wyrmrest Temple"
@@ -286,7 +290,8 @@
 						"spellId": 59996
 					  }
 					],
-					"title": "Run Utgarde Pinnacle"
+					"title": "Run Utgarde Pinnacle",
+					"type": "Dungeon"
 				  }
 				],
 				"title": "Fly to Howling Fjord"
@@ -306,7 +311,8 @@
 						"spellId": 63796
 					  }
 					],
-					"title": "Run Ulduar"
+					"title": "Run Ulduar",
+					"type": "Raid"
 				  }
 				],
 				"title": "Fly to Storm Peaks"
